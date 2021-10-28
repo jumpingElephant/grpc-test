@@ -1,0 +1,11 @@
+#Sat Oct 23 17:33:40 GMT 2021
+micronaut:
+  application:
+    name: grpc
+  server:
+    port: 8080
+
+coherence:
+  session:
+    default:
+      type: grpc
